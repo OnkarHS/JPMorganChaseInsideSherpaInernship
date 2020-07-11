@@ -1,0 +1,16 @@
+[[package]]
+category = "main"
+description = "A Python package - client"
+name = "client"
+optional = false
+python-versions = "*"
+version = "0.0.1"
+
+[metadata]
+content-hash = "66c449219b1660d85abf7aa528f1e4dc34667106351c7177549a360457c7de2e"
+python-versions = "^3.8"
+
+[metadata.files]
+client = [
+    {file = "client-0.0.1.tar.gz", hash = "sha256:38dbc62a18e58e97176dbb999d3be7dafb5ee4fa8fd02fc674ed7330c76aec2e"},
+]
